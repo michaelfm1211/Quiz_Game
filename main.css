@@ -1,0 +1,30 @@
+body {
+    background-image: url("Images/Logo.png");
+    font-family: sans-serif;
+    height: 640px;
+    border: 2px solid tomato;
+    border-radius: 2px;
+}
+
+html {
+    background-color: rgb(0, 17, 255);
+}
+
+.gameOver {
+    text-align: center;
+    color: tomato;
+}
+
+.welcome {
+    display: flex;
+    justify-content: center;
+}
+
+.win {
+    color: rgb(11, 236, 131);
+    text-align: center;
+}
+
+.startbtn {
+    height: 50px;
+}
